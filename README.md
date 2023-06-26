@@ -1,6 +1,4 @@
-# Sprint-5-Anna-Francisco
-Sprint 5 learning and devloping skill using SIEM Tool
-# Cyber Range Team Capstone Project Summary - Sprint 5 Anna & Fransico
+# SEIM
 
 ![Sprint 5](https://mti.com/wp-content/uploads/2020/06/blog-siem-image-03.jpg)
 
@@ -56,25 +54,14 @@ Overall, SIEM tools play a crucial role in enhancing an organization's cybersecu
 
 
 ## Technical Documentation
-
 [Step by step documentation](https://docs.google.com/document/d/12Nyv6eEDuQsfSSZ5Dzg3gOKf9GqQNjFOwqm8Z-Aigjc/edit)
 
 ## Presentation
-
 [Software_Documentation/Powerpoint](https://docs.google.com/presentation/d/1s5_pEGAIN1Bto-_RqO3YM467w92ASvc6ytIwOMgxQxw/edit#slide=id.g4dfce81f19_0_45)
 
 
-## Agile Framework
-[Jira ](https://drive.google.com/file/d/1B_IY_LXdyeOrF2no24qN-tkD1-i5GdZo/view?usp=sharing)
-
-
-
 ## Research Questions
-
 [Research](https://docs.google.com/document/d/1RaNbkTsDpRSKrG1aX1620_sm_gfnPjzuwhusGTsYeV8/edit)
 
-## Team Members
-- Anna [@annitamaria](https://github.com/orgs/cybertrainingrange/people/ANNITAMARIA)
-- Francisco [@killbay](https://github.com/orgs/cybertrainingrange/people/killbay)
 
-
+<!-- END -->
